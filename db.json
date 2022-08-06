@@ -1,0 +1,33 @@
+{
+    "jadwalMasukPelabuhan": {
+        "responseCode": "RSx700006",
+        "responseMessage": "Ferizy Service - RsRsScheduleCheckInRf Sukses",
+        "responseReferenceNo": "5a67dc9fd5024c609d1ac9ddf08fdac9",
+        "jadwalMasukPelabuhan": {
+            "id": "jadwal-masuk-pelabuhan",
+            "name": "Jadwal Masuk Pelabuhan (Check In)",
+            "tanggalMulai": "2021-08-03",
+            "tanggalSelesai": "2021-08-20",
+            "data": [
+                {
+                    "routeId": "5355",
+                    "scheduleId": "27160930379974440",
+                    "dateDeparture": "2021-10-01",
+                    "timeDeparture": "00:00"
+                },
+                {
+                    "routeId": "5355",
+                    "scheduleId": "27160930379974441",
+                    "dateDeparture": "2021-10-01",
+                    "timeDeparture": "00:00"
+                },
+                {
+                    "routeId": "5355",
+                    "scheduleId": "27160930379974442",
+                    "dateDeparture": "2021-10-01",
+                    "timeDeparture": "00:00"
+                }
+            ]
+        }
+    }
+}
